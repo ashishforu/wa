@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: im.zego:zpns:2.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71c52f4eed7dd9c526751aa451df90f5/jetified-zpns-2.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71c52f4eed7dd9c526751aa451df90f5/jetified-zpns-2.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71c52f4eed7dd9c526751aa451df90f5/jetified-zpns-2.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.zego/zpns/2.3.0/4b83e1217c0392cecbb3a9b240cd39150400fd75/zpns-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

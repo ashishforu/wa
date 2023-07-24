@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ab7c7c4bb342a0ebde708807bc7cabb/jetified-zego_uikit_signaling_plugin_android-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ab7c7c4bb342a0ebde708807bc7cabb/jetified-zego_uikit_signaling_plugin_android-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ab7c7c4bb342a0ebde708807bc7cabb/jetified-zego_uikit_signaling_plugin_android-2.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ZEGOCLOUD/zego_uikit_signaling_plugin_android/2.1.0/dd9e785e79ea3d6ccc2f3ecf165ed9bbf843e1c0/zego_uikit_signaling_plugin_android-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

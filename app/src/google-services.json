@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "872718830080",
+    "firebase_url": "https://whatsapp-9425c-default-rtdb.firebaseio.com",
+    "project_id": "whatsapp-9425c",
+    "storage_bucket": "whatsapp-9425c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872718830080:android:12faf7752ff4eb9f3fe6e5",
+        "android_client_info": {
+          "package_name": "com.life.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872718830080-qohr9bjt9u80acf5a7fjbh67t2ubh0bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6qaoBFFg4m3sX9StwwSODvSf47X0U0FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872718830080-fhcituuqi42c6lrgt7aq8j30us5d9qak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

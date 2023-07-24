@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.5.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d73b39b9b668620835673d1c08a7dd6/jetified-zego_uikit_prebuilt_call_android-2.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d73b39b9b668620835673d1c08a7dd6/jetified-zego_uikit_prebuilt_call_android-2.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d73b39b9b668620835673d1c08a7dd6/jetified-zego_uikit_prebuilt_call_android-2.5.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ZEGOCLOUD/zego_uikit_prebuilt_call_android/2.5.1/43efcc8e31d324fbeb2050f62f4b646bee3fca3/zego_uikit_prebuilt_call_android-2.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.zegolibrary:express-video:3.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13adf013f1cd96a9110b6cc114463a60/jetified-express-video-3.5.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13adf013f1cd96a9110b6cc114463a60/jetified-express-video-3.5.0/jars/libs/ZegoExpressEngine-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13adf013f1cd96a9110b6cc114463a60/jetified-express-video-3.5.0/jars/libs/ZegoExpressEngine.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13adf013f1cd96a9110b6cc114463a60/jetified-express-video-3.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13adf013f1cd96a9110b6cc114463a60/jetified-express-video-3.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13adf013f1cd96a9110b6cc114463a60/jetified-express-video-3.5.0/jars/libs/ZegoExpressEngine-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
